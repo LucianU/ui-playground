@@ -1,4 +1,4 @@
-# UI Playground
+# Code with UI
 The goal of this repo is to explore using UI to manipulate
 the constructs of a programming language.
 

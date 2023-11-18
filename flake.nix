@@ -1,5 +1,5 @@
 {
-  description = "UI Playground";
+  description = "Code with UI";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/23.05";
